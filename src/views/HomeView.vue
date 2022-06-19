@@ -2,7 +2,7 @@
   <div class="home">
     <div>{{ api }}</div>
     <img alt="Vue logo" src="../assets/logo.png" />
-    <HelloWorld msg="[PR] Welcome to Your Vue.js + TypeScript App" />
+    <HelloWorld msg="[PV] Welcome to Your Vue.js + TypeScript App" />
   </div>
 </template>
 
