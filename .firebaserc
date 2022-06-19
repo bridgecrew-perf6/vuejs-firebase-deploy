@@ -1,5 +1,17 @@
 {
   "projects": {
     "default": "cafenomad-153014"
+  },
+  "targets": {
+    "cafenomad-153014": {
+      "hosting": {
+        "production": [
+          "cafenomad-153014"
+        ],
+        "development": [
+          "cafenomad-153014-dev"
+        ]
+      }
+    }
   }
 }
